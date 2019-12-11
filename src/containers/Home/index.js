@@ -1,5 +1,6 @@
 import React from "react";
+import Button from '../../components/inputs/Button';
 
-const Home = () => <div>Home</div>;
+const Home = () => <Button></Button>;
 
 export default Home;
